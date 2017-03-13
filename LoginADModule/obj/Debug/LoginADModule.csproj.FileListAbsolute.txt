@@ -1,0 +1,10 @@
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.csprojResolveAssemblyReference.cache
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.Properties.Resources.resources
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.csproj.GenerateResource.Cache
+C:\Projects\LoginADModule\LoginADModule\bin\Debug\LoginADModule.pdb
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.Form1.resources
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.pdb
+C:\Projects\LoginADModule\LoginADModule\bin\Debug\LoginADModule.dll
+C:\Projects\LoginADModule\LoginADModule\bin\Debug\LoginADModule.tlb
+C:\Projects\LoginADModule\LoginADModule\bin\Debug\LoginADModule.dll.config
+C:\Projects\LoginADModule\LoginADModule\obj\Debug\LoginADModule.dll
